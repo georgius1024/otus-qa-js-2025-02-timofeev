@@ -5,3 +5,6 @@ Lorem ipsum dolorem anes
 
 ## Install instructions
 ---------
+
+## Testing instructions
+.......
